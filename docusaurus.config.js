@@ -17,7 +17,7 @@ const config = {
   projectName: "Knowledge", // Usually your repo name
   i18n: {
     defaultLocale: "en",
-    locales: ["en"],
+    locales: ["en", "pt"],
   },
 
   presets: [
@@ -48,6 +48,9 @@ const config = {
           src: "img/logo.svg",
         },
         items: [
+          // {
+          //   type: "localeDropdown",
+          // },
           {
             href: "https://github.com/otaviosc",
             label: "GitHub",
