@@ -2,6 +2,6 @@
 id: "Von-Neumann-Architecture"
 ---
 
-## Von Neumann Architecture Notes
+Von Neumann Architecture Notes
 
-### CPU - MEMORY - I/O
+CPU - MEMORY - I/O
