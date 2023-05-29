@@ -5,6 +5,8 @@
 
 ![Turing Machine](https://i.imgur.com/H0L3NAj.png)
 
+The Turing Machine is a mathematical model of computation that describes an abstract machine capable of manipulating symbols on a tape according to a table of rules.
+
 Abstract mathematical structures help us to precisely describe what computation means.
 
 The Turing machine was created by Alan Turing in 1936 at Princeton.
